@@ -53,4 +53,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+url: "https://avicndugu.github.io/priorities-blog/" # Site url
 baseurl: "/blog-priorities/"
