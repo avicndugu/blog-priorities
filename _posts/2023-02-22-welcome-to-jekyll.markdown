@@ -1,29 +1,26 @@
 ---
 layout: post
-title:  "Legal Priorities Jekyll example post: Welcome to Jekyll!"
+title:  "Understanding the Basics of Copyright Law"
 date:   2023-02-22 12:24:01 +0300
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+Copyright law is an important and complex area of law that affects many individuals and businesses. It governs the ownership and use of creative works, including books, music, films, and software. In this blog post, we will provide a basic understanding of copyright law, including what it is, how it works, and what your rights are as a copyright owner.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+## **What is Copyright Law?**
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Copyright law is a legal framework that grants exclusive rights to creators and owners of original creative works. It gives the owner the right to control the use, distribution, and reproduction of their work, and to prevent others from using it without permission. Copyright law protects a wide range of works, including literature, music, film, art, and software.
 
-Jekyll also offers powerful support for code snippets:
+## **How Does Copyright Law Work?**
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+In order to receive copyright protection, a work must be original and fixed in a tangible medium of expression. This means that it must be recorded or written down in some way, and it must be a unique expression of an idea. Copyright protection is automatic and does not require any registration or filing. However, registering your copyright can provide additional benefits and protections.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## **What Are Your Rights as a Copyright Owner?**
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+As a copyright owner, you have a number of exclusive rights, including the right to reproduce your work, distribute it, display it publicly, and create derivative works based on it. You also have the right to license these rights to others or sell them outright. If someone uses your work without permission, you can take legal action to stop them and seek damages.
+
+Conclusion:
+
+Copyright law is an important area of law that can have a significant impact on individuals and businesses. Understanding the basics of copyright law can help you protect your own creative works and ensure that you are not infringing on the rights of others.
+
+
